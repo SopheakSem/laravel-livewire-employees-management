@@ -1,4 +1,4 @@
-Finally, you need to perform a set of Laravel-related commands in Terminal to install the project. These commands are typical to ANY Laravel project, and are not specific to QuickAdminPanel-generated code - we are trying to stick to standards.
+Finally, you need to perform a set of Laravel-related commands in Terminal to install the project. These commands are typical to ANY Laravel project, and are not specific - we are trying to stick to standards.
 
 1. Run cp .env.example .env command to copy example into real .env file, then edit it with DB credentials and other settings you want
 2. Run composer install command
